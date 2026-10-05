@@ -95,6 +95,6 @@ I identified the IP address of the Metasploitable 2 machine using:
 ```bash```
 ifconfig
 
-![Metasploitable-2-Lab-Environment-Setup](metasploitable ifconfig.jpg)
+![Metasploitable-2-Lab-Environment-Setup](metasploitable-ifconfig.jpg)
 
 The IP address displayed by the machine was used as the target address for subsequent testing.
