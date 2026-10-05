@@ -72,3 +72,15 @@ The objectives for this lab are:
 | Base Memory | 1024 MB |
 | Virtual Disk | Metasploitable 2 `.vmdk` |
 | Role | Vulnerable target machine |
+
+### Kali Linux
+
+Kali Linux is being used as the security testing machine.
+
+The following tools will be used throughout the assessment:
+
+- Nmap
+- FTP client
+- Netcat
+- Searchsploit
+- Other Kali Linux security tools as required
