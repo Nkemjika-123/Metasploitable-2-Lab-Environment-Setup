@@ -60,3 +60,15 @@ The objectives for this lab are:
 6. Start the Metasploitable 2 virtual machine.
 7. Identify its IP address.
 8. Verify communication between Kali Linux and Metasploitable 2.
+
+## Virtual Machine Configuration
+
+### Metasploitable 2
+
+| Configuration | Details |
+|---|---|
+| Operating System | Linux |
+| VirtualBox Profile | Debian (32-bit) |
+| Base Memory | 1024 MB |
+| Virtual Disk | Metasploitable 2 `.vmdk` |
+| Role | Vulnerable target machine |
