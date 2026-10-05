@@ -125,3 +125,19 @@ The lab environment should remain isolated from:
 - Public-facing networks
 
 This helps ensure that security testing remains controlled and authorized.
+
+## What I Learned
+
+- Deploy Metasploitable 2 in Oracle VirtualBox.
+- Configure a vulnerable Linux target.
+- Configure the virtual network.
+- Identify the target machine's IP address.
+- Test network connectivity between the two systems.
+- Prepare an isolated environment for vulnerability assessment.
+- Organize evidence and screenshots for cybersecurity documentation.
+
+## Ethical / Lab Disclaimer
+
+All activities documented in this project were performed in my own controlled cybersecurity laboratory using intentionally vulnerable systems for educational purposes.
+
+No unauthorized systems or networks were targeted.
