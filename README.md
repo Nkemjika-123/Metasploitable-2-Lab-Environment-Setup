@@ -34,6 +34,7 @@ All testing in this project is performed against an intentionally vulnerable vir
                        |
                  Metasploitable 2
                 Vulnerable Target VM
+
 | Tool | Purpose |
 |---|---|
 | Kali Linux | Security testing and assessment |
