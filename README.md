@@ -73,6 +73,8 @@ The objectives for this lab are:
 | Virtual Disk | Metasploitable 2 `.vmdk` |
 | Role | Vulnerable target machine |
 
+![Metasploitable-2-Lab-Environment-Setup](metasploitable-configuration.jpg)
+
 ### Kali Linux
 
 Kali Linux is being used as the security testing machine.
