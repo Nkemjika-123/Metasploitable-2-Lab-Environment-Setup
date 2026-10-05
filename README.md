@@ -104,9 +104,10 @@ The IP address displayed by the machine was used as the target address for subse
 From Kali Linux, I tested connectivity to the Metasploitable 2 target using the `ping` command.
 
 ```bash
-ping 10.0.2.5
+ping 10.0.2.5 and ping 10.0.2.4
 ```
 ![Metasploitable-2-Lab-Environment-Setup](pingtometasploitable.jpg)
+![Metasploitable-2-Lab-Environment-Setup](pingtokali.jpg)
 
 A successful response confirmed that Kali Linux could communicate with the Metasploitable 2 target over the lab network.
 
