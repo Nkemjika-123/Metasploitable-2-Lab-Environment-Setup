@@ -141,3 +141,9 @@ This helps ensure that security testing remains controlled and authorized.
 All activities documented in this project were performed in my own controlled cybersecurity laboratory using intentionally vulnerable systems for educational purposes.
 
 No unauthorized systems or networks were targeted.
+
+## Author
+
+**Nkemjika Omazi**
+
+CompTIA Security+ Certified | Cybersecurity Hands-on Labs
