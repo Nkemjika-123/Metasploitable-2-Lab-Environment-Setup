@@ -98,3 +98,10 @@ ifconfig
 ![Metasploitable-2-Lab-Environment-Setup](metasploitable-ifconfig.jpg)
 
 The IP address displayed by the machine was used as the target address for subsequent testing.
+
+## Connectivity Test from Kali Linux to Metasploitable 2
+
+From Kali Linux, I tested connectivity to the Metasploitable 2 target using the `ping` command.
+
+```bash
+ping 10.0.2.5
