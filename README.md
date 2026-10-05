@@ -106,4 +106,7 @@ From Kali Linux, I tested connectivity to the Metasploitable 2 target using the 
 ```bash
 ping 10.0.2.5
 ```
+![Metasploitable-2-Lab-Environment-Setup](pingtometasploitable.jpg)
+
 A successful response confirmed that Kali Linux could communicate with the Metasploitable 2 target over the lab network.
+
