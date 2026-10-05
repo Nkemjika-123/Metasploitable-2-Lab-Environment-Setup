@@ -34,3 +34,9 @@ All testing in this project is performed against an intentionally vulnerable vir
                        |
                  Metasploitable 2
                 Vulnerable Target VM
+| Tool | Purpose |
+|---|---|
+| Kali Linux | Security testing and assessment |
+| Metasploitable 2 | Intentionally vulnerable target |
+| Oracle VirtualBox | Virtualization platform |
+| Nmap | Network reconnaissance and enumeration |
