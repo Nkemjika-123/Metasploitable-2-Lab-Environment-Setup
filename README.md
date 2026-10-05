@@ -39,20 +39,18 @@ All testing in this project is performed against an intentionally vulnerable vir
 
 ## Tools Used
 
-
-| Tool | Purpose |
-|---|---|
-| Kali Linux | Security testing and assessment |
-| Metasploitable 2 | Intentionally vulnerable target |
-| Oracle VirtualBox | Virtualization platform |
-| Nmap | Network reconnaissance and enumeration |
-
+| Tool              | Purpose                          |
+|-------------------|----------------------------------|
+| Kali Linux        | Security testing and assessment  |
+| Metasploitable 2  | Intentionally vulnerable target  |
+| Oracle VirtualBox | Virtualization platform          |
+| Nmap              | Network reconnaissance and enumeration |
 
 ---
 
 ## Objectives
 
-The objectives for this lab were to:
+The objectives for this lab are:
 
 1. Download and import Metasploitable 2.
 2. Configure the virtual machine in VirtualBox.
