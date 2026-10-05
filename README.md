@@ -92,7 +92,7 @@ The Metasploitable 2 virtual machine was connected to the isolated lab network s
 
 I identified the IP address of the Metasploitable 2 machine using:
 
-````bash
+```bash```
 ifconfig
 
 ![Metasploitable-2-Lab-Environment-Setup](metasploitable ifconfig.jpg)
