@@ -74,7 +74,6 @@ The objectives for this lab are:
 | Role | Vulnerable target machine |
 
 ![Metasploitable-2-Lab-Environment-Setup](metasploitable-configuration.jpg)
-
 ### Kali Linux
 
 Kali Linux is being used as the security testing machine.
@@ -87,3 +86,11 @@ The following tools will be used throughout the assessment:
 - Searchsploit
 - Other Kali Linux security tools as required
 
+## Network Configuration
+
+The Metasploitable 2 virtual machine was connected to the isolated lab network so that it could communicate with Kali Linux.
+
+I identified the IP address of the Metasploitable 2 machine using:
+
+```bash
+ifconfig
