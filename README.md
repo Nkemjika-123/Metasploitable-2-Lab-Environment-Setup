@@ -111,3 +111,17 @@ ping 10.0.2.5 and ping 10.0.2.4
 
 A successful response confirmed that Kali Linux could communicate with the Metasploitable 2 target over the lab network.
 
+## Security Considerations
+
+Metasploitable 2 is intentionally vulnerable and should not be exposed directly to the public internet.
+
+The virtual machine is being used strictly as a controlled cybersecurity training target.
+
+The lab environment should remain isolated from:
+
+- Production systems
+- Personal devices
+- Sensitive networks
+- Public-facing networks
+
+This helps ensure that security testing remains controlled and authorized.
